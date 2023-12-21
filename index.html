@@ -85,7 +85,7 @@
 </head>
 
 <body>
-	<nav class="top-header">
+	<nav class="top-header" role="navigation">
 		<h1 class="name">Nina Carducci</h1>
 		<div class="nav">
 			<ul>
@@ -99,7 +99,7 @@
 		</div>
 	</nav>
 
-	<header id="header">
+	<header id="header" role="banner">
 
 		<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
 			<div class="carousel-indicators">
@@ -161,7 +161,7 @@
 		</div>
 	</header>
 
-	<main>
+	<main role="main">
 
 		<section id="about">
 			<div class="picture left">
@@ -224,7 +224,7 @@
 						alt="Mateus Campos Felipe Entreprise" loading="lazy">
 				</div>
 			</div>
-			<div class="quote">
+			<section class="quote" role="complementary">
 				<figure>
 					<blockquote>
 						<h2 class="quote__text">Un portrait n’est pas une ressemblance. Dès lors qu’une émotion ou qu’un
@@ -236,7 +236,7 @@
 					</blockquote>
 					<figcaption class="quote__author">- Richard Avedon</figcaption>
 				</figure>
-			</div>
+			</section>
 		</section>
 
 		<section id="services">
@@ -283,7 +283,7 @@
 			</div>
 		</section>
 
-		<section class="quote">
+		<section class="quote" role="complementary">
 			<figure>
 				<blockquote>
 					<h2 class="quote__text">De manière inconsciente, je crois, je guette un regard, une expression, des
@@ -296,12 +296,12 @@
 
 	</main>
 
-	<footer id="contact">
+	<footer id="contact" role="contentinfo">
 		<div class="container">
 			<div class="form-container">
 				<h2>Une question ? Une demande de devis ?</h2>
 				<p>N’hésitez pas à m’écrire ! Je vous répondrais en moins de 24 heures</p>
-				<form action="#" method="post">
+				<form action="#" method="post" role="form">
 					<label for="nom">Nom</label>
 					<input type="text" name="nom" id="nom">
 					<label for="email">Email</label>
