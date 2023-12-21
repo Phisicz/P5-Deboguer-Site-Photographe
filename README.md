@@ -24,18 +24,18 @@ L'objectif principal de ce projet (P5) était principalement de [apprendre à op
 ### 🛠️ Optimisations
 
 - **Performance** :
--- Images compressées sans perte de qualité
--- Format WEBP optimisé pour 95% des navigateurs
--- Optimisation de la taille des images afin de réduire la charge du site selon les différents appareils
--- Changement des balises afin d’améliorer la sémantique
--- Ajout de “srcset” et “sizes” aux images afin de charger l’image au bon format selon l’appareil
--- Réorganisation de la structure des textes, H1, H2, H3, P, etc
--- Minification des fichiers javascript et css, afin de ne pas ralentir la page au chargement
+- Images compressées sans perte de qualité
+- Format WEBP optimisé pour 95% des navigateurs
+- Optimisation de la taille des images afin de réduire la charge du site selon les différents appareils
+- Changement des balises afin d’améliorer la sémantique
+- Ajout de “srcset” et “sizes” aux images afin de charger l’image au bon format selon l’appareil
+- Réorganisation de la structure des textes, H1, H2, H3, P, etc
+- Minification des fichiers javascript et css, afin de ne pas ralentir la page au chargement
 
 - **Accesibilité** :
--- Ajout des metadata pour les réseaux sociaux afin que le site s’affiche correctement lorsqu’il est partagé
--- Ajout des metadata pour le SEO afin d’optimiser le référencement
--- Ajout du référencement local pour que google indexe bien les informations et le site
+- Ajout des metadata pour les réseaux sociaux afin que le site s’affiche correctement lorsqu’il est partagé
+- Ajout des metadata pour le SEO afin d’optimiser le référencement
+- Ajout du référencement local pour que google indexe bien les informations et le site
 
 
 - **Référencement** : xcxc
